@@ -1,0 +1,41 @@
+﻿product_id;product_name;category_id;price;cost;stock
+P001;Wireless Mouse;C01;25.99;12.50;40
+P002;Keyboard;C01;45.00;20.00;25
+P003;USB-C Charger;C01;29.90;29.90;18
+P004;Bluetooth Speaker;C01;59.99;59.99;15
+P005;Webcam;C01;49.50;49.50;12
+P006;External Hard Drive;C01;89.99;89.99;10
+P007;USB Hub;C01;19.99;9.00;35
+P008;Power Bank;C01;34.99;17.00;22
+P009;Monitor Stand;C01;39.99;21.00;16
+P010;Desk Microphone;C01;64.99;36.00;8
+P011;Notebook;C02;3.50;1.20;100
+P012;Ballpoint Pen Set;C02;6.99;6.99;80
+P013;Desk organizer;C02;12.50;12.50;35
+P014;Sticky Notes Pack;C02;4.20;4.20;90
+P015;Folders Set;C02;8.99;3.80;50
+P016;Stapler;C02;11.99;5.20;28
+P017;Paper Clips Box;C02;2.99;1.00;120
+P018;Whiteboard Markers;C02;7.50;3.00;45
+P019;Calculator;C02;18.90;9.00;20
+P020;Printer Paper Pack;C02;9.49;4.20;60
+P021;Water Bottle;C03;15.00;6.00;30
+P022;Desk Lamp;C03;32.00;14.00;12
+P023;Storage Box;C03;18.50;8.00;20
+P024;Ceramic Mug;C03;9.99;3.80;40
+P025;Wall Clock;C03;24.99;11.00;14
+P026;Candle Set;C03;13.50;5.50;26
+P027;Small Plant Pot;C03;11.20;4.40;33
+P028;Blanket;C03;29.99;15.00;11
+P029;Table Tray;C03;17.99;7.80;19
+P030;Laundry Basket;C03;21.50;10.00;17
+P031;Tote Bag;C04;9.99;4.00;50
+P032;Phone Stand;C04;11.99;4.80;45
+P033;Laptop Sleeve;C04;22.50;10.00;28
+P034;Backpack;C04;39.99;19.00;18
+P035;Card Holder;C04;8.50;3.20;36
+P036;Cable Organizer;C04;7.99;3.00;55
+P037;Keychain;C04;4.99;1.80;70
+P038;Travel Pouch;C04;14.50;6.20;24
+P039;Reusable Shopping Bag;C04;6.99;2.50;65
+P040;Sunglasses Case;C04;10.99;4.60;32
